@@ -1,0 +1,8 @@
+<Project>
+  <Import Project="..\BuildFromSource.props" />
+  <ItemGroup>
+    <ProjectReference ExcludeAssets="All"  Include="$(SextantRootCodePath)\Sextant\Sextant.csproj" />
+    <ProjectReference ExcludeAssets="All"  Include="$(SextantRootCodePath)\Sextant.XamForms\Sextant.XamForms.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+[submodule "Sextant"]
+	path = Sextant
+	url = https://github.com/reactiveui/Sextant.git
+	branch = feature/shell-support
+[submodule "Xamarin.Forms"]
+	path = Xamarin.Forms
+	url = https://github.com/xamarin/Xamarin.Forms.git
+	branch = shell_work
